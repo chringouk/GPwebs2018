@@ -1818,7 +1818,7 @@ body {
 }
 .cid-qJxt6GHS2D {
   padding-top: 45px;
-  padding-bottom: 90px;
+  padding-bottom: 15px;
   background-color: #efefef;
 }
 .cid-qJxt6GHS2D .pricing {
@@ -1858,6 +1858,18 @@ body {
   margin: 2rem 0;
 }
 .cid-qJxt6GHS2D P {
+  text-align: center;
+}
+.cid-qK38d05Msb {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qK38d05Msb .mbr-text,
+.cid-qK38d05Msb blockquote {
+  color: #767676;
+}
+.cid-qK38d05Msb .mbr-text {
   text-align: center;
 }
 .cid-qJxc9GWwY4 {
