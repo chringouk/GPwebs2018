@@ -1837,10 +1837,12 @@ body {
 }
 .cid-qJxt6GHS2D .plan-title {
   margin-top: 1.4rem;
+  text-align: right;
 }
 .cid-qJxt6GHS2D .price-figure {
   font-weight: 700;
   color: #232323;
+  text-align: left;
 }
 @media (max-width: 550px) {
   .cid-qJxt6GHS2D .price-figure {
@@ -1850,6 +1852,7 @@ body {
 .cid-qJxt6GHS2D .price-value {
   font-weight: 700;
   vertical-align: top;
+  text-align: left;
 }
 .cid-qJxt6GHS2D hr {
   margin: 2rem 0;
